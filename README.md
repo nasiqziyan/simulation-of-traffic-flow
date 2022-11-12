@@ -1,4 +1,4 @@
-# Flight Club Project
+# Simulation of Traffic Flow
 
 A cellular automaton model was constructed to model realistic traffic flow which contains characteristic features of 
 non-deterministic traffic behaviour, such as non-linear backward motion of congestion and the bottlenecking of traffic 
